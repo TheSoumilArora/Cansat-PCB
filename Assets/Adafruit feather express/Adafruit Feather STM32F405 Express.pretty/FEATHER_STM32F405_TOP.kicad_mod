@@ -1,0 +1,11 @@
+(footprint "FEATHER_STM32F405_TOP" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp b7730c25-6e17-440c-978b-78d873b9cc5e)
+  )
+  (fp_text value "" (at 0 0) (layer "F.Fab") hide
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp ae34a7b7-8116-43ac-83c2-6e5d0ed47afb)
+  )
+)
