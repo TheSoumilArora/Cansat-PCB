@@ -6,4 +6,7 @@
   (lib (name "18650 Cell Holder")(type "KiCad")(uri "${KIPRJMOD}/18650 holder.pretty")(options "")(descr ""))
   (lib (name "Digi XBee")(type "KiCad")(uri "${KIPRJMOD}/Digi XBee.pretty")(options "")(descr ""))
   (lib (name "Boost Converter")(type "KiCad")(uri "${KIPRJMOD}/Boost Converter.pretty")(options "")(descr ""))
+  (lib (name "CDRH104R")(type "KiCad")(uri "${KIPRJMOD}/CDRH104R.pretty")(options "")(descr ""))
+  (lib (name "SS34")(type "KiCad")(uri "${KIPRJMOD}/SS34.pretty")(options "")(descr ""))
+  (lib (name "TPS61087")(type "KiCad")(uri "${KIPRJMOD}/TPS61087DRCT.pretty")(options "")(descr ""))
 )
